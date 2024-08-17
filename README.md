@@ -1,4 +1,4 @@
-# PortfolioSpectrum
+# Portfolio
 
 
-Here is the link to my Portfolio:- https://shubhangidabral13.github.io/PortfolioSpectrum/ 
+Here is the link to my Portfolio:- https://code-lakshay.github.io/ 
